@@ -1,7 +1,16 @@
 # Pothole-440-Dataset
 
 <p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fumanitoba.ca%2Fabout-um%2Fbrand&psig=AOvVaw0l7Q3pQpT5xg8TNhNUCmnx&ust=1749964167589000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLih5deS8I0DFQAAAAAdAAAAABAE" alt="University of Manitoba" width="600"/>
+    <img src="university-of-manitoba-logo.jpg" alt="University of Manitoba" width="320" style="border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.15); margin-bottom: 10px;"/>
+</p>
+
+<p align="center">
+    <b>
+        <span style="font-size:1.3em; color:#005DAA;">Department of Civil Engineering</span><br>
+        <span style="font-size:1.1em; color:#333;">University of Manitoba</span>
+    </b>
+</p>
+
 </p>
 
 <p align="center">
@@ -19,8 +28,8 @@
 ## Features
 
 - 🎯 **440 Images**: Captured under varied lighting, weather, and road conditions.
-- 🏷️ **Annotations**: Includes bounding boxes and **binary segmentation masks** for each pothole.
-- 🌈 **Depth Maps**: High-resolution depth images acquired using Go!SCAN 3D scanner.
+- 🏷️ **Annotations**: Includes **binary segmentation masks** for each pothole.
+- 📏 **Depth Maps**: High-resolution depth images acquired using Go!SCAN 3D scanner.
 - 📁 **Format**: All images in PNG format.
 - 🧩 **Use Cases**: Object detection, semantic segmentation, 3D volume estimation, autonomous driving, and infrastructure monitoring.
 
