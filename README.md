@@ -127,8 +127,9 @@ If you use this dataset in your research, please cite:
         publisher = {Elsevier}
 }
 ```
+### Related Research
 
----
+Ali, R., Bin-Saeed, Q., Buyukozturk, O., Lee, S., & Cha, Y. (2024). *Monocular Computer Vision-Based Simultaneous Pothole Segmentation and 3D Volume Prediction Using 3DPredictNet*. Available at SSRN 5045587. [https://dx.doi.org/10.2139/ssrn.5045587](https://dx.doi.org/10.2139/ssrn.5045587)
 
 ## Contact
 
